@@ -55,8 +55,10 @@ First, you need to install Git, if you don’t have it already.
 
 1. Copy below the output from `git version`:
 
+git version 2.7.0
 
 2. Copy below the output from `git config --global --list`:
+
 
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
@@ -64,10 +66,6 @@ done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
 
-
-Clone your fork of this repository. Then, on your computer, add a remote
-referencing my copy of the repository as the upstream rep by running
-`git remote add upstream https://github.com/karlstolley/itmd362-pp.git`
 
 4. Copy below the output from `git remote -v` from within your copy of this
 repository:
@@ -77,6 +75,7 @@ Next, you need to install Node.js, and possibly also npm, if you don’t have it
 already.
 
 5. Copy below the output from `node -v`:
+
 
 
 6. Copy below all of the output from `npm install http-server -g`:
