@@ -69,7 +69,10 @@ done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
 
-
+Warning: Permanently added the RSA host key for IP address '192.30.252.131' to the list of known hosts.
+PTY allocation request failed on channel 0
+Hi SoniGit! You've successfully authenticated, but GitHub does not provide shell access.
+Connection to github.com closed.
 
 4. Copy below the output from `git remote -v` from within your copy of this
 repository:
