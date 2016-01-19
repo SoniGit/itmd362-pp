@@ -59,7 +59,10 @@ git version 2.7.0
 
 2. Copy below the output from `git config --global --list`:
 
-
+user.name=Sola Oni
+user.email=soni@hawk.iit.edu
+apply.whitespace=nowarn
+credential.helper=osxkeychain
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
